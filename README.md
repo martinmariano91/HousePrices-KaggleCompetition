@@ -1,4 +1,16 @@
-# HousePrices-KaggleCompetition
+## Precios de Casas - Competencia Kaggle
+
+Descripción de la competencia
+
+Si le preguntas a alguien que quiera comprar una casa como sería la casa de sus sueños, seguramente no comiencen la descripción hablando del techo del sótano o cuan cercano está al ferrocarril. Esta competencia de juego proporciona un grupo de datos que prueba que muchas variables afectan el precio de una vivienda además del número de habitaciones o la presencia de una cerca blanca. 
+
+Basandose en 79 variables explicatorias describiendo casi todo los aspectos de hogares residenciales en Ames, Iowa, esta competición desafía a predecir el precio final de cada casa.
+
+Habilidades prácticas:
+* Ingeniería creativa de las variables
+* Técnicas de regresión avanzada como Random Forest y Gradient Boosting
+
+## HousePrices - KaggleCompetition
 
 Competition Description
 
@@ -6,6 +18,6 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
-Practice Skills
-Creative feature engineering 
-Advanced regression techniques like random forest and gradient boosting
+Practice Skills:
+* Creative feature engineering
+* Advanced regression techniques like random forest and gradient boosting
