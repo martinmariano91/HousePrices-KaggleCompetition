@@ -1,6 +1,6 @@
 ## Precios de Casas - Competencia Kaggle
 
-**Descripción de la competenci**
+**Descripción de la competencia**
 
 Si le preguntas a alguien que quiera comprar una casa como sería la casa de sus sueños, seguramente no comiencen la descripción hablando del techo del sótano o cuan cercano está al ferrocarril. Esta competencia de juego proporciona un grupo de datos que prueba que muchas variables afectan el precio de una vivienda además del número de habitaciones o la presencia de una cerca blanca. 
 
