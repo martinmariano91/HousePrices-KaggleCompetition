@@ -24,3 +24,7 @@ features con las que se cuenta en los datos. Se optimizó el modelo realizando r
 los mejores hiperparámetros (nota: realizar la grid search de ~320 modelos tardo cerca de 2 hs, esto se debe a que tiene muchas features).
 Por ahora este es el modelo que realiza las mejores predicciones, obteniendo un putnaje de ~0.14 y quedando en la posición 7800.
 nota: acordarse siempre de entrenar el modelo final con el dataset entero!!
+
+**¿Cómo mejorar el modelo?**
+-Mejorar la imputación de los nan values: usar machine learning para predecir valores??
+-Cambiar de algoritmo: pasar de RandomForest a XGBoost?
